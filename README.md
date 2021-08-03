@@ -20,7 +20,8 @@
   
 <div> 
   <a href = "mailto:ricardo.faria.silva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faria-silva-ricardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/faria-silva-ricardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+ <a href="https://www.codewars.com/users/RicardoFariaSilva" target="_blank"><img src="https://www.codewars.com/users/RicardoFariaSilva/badges/small" target="_blank"></a> 
  
   ![Snake animation](https://github.com/RicardoFariaSilva/RicardoFariaSilva/blob/output/github-contribution-grid-snake.svg)
  

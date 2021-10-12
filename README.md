@@ -26,3 +26,4 @@
   ![Snake animation](https://github.com/RicardoFariaSilva/RicardoFariaSilva/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+

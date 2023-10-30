@@ -1,9 +1,4 @@
 ### Hello, World! I'm Ricardo Faria. It's a pleasure to meet you. 😄
- <div>
-  <a href="https://github.com/RicardoFariaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoFariaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFariaSilva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Ricardo-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
